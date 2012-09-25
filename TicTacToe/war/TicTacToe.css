@@ -1,0 +1,17 @@
+/** Add css rules here for your application. */
+
+.gameFiledTable {
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.gameFiledTable td {
+    border: 1px solid black;
+    width: 150px;
+    height: 150px;
+    font-family: "Comic Sans MS"; 
+    font-weight: bold;
+    font-size: 100px;
+    text-align: center;
+}
